@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Marcus&#39;s Blog</title>
+    <link>https://cn.blog.lannister.cc/en/page/</link>
+    <description>Recent content in Pages on Marcus&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 19 Jun 2024 21:17:23 +0800</lastBuildDate>
+    <atom:link href="https://cn.blog.lannister.cc/en/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://cn.blog.lannister.cc/en/page/about/</link>
+      <pubDate>Wed, 19 Jun 2024 21:17:23 +0800</pubDate>
+      <guid>https://cn.blog.lannister.cc/en/page/about/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
