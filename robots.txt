@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://cn.blog.lannister.cc/sitemap.xml
