@@ -43,18 +43,6 @@
   </url><url>
     <loc>https://cn.blog.lannister.cc/gallery/</loc>
   </url><url>
-    <loc>https://cn.blog.lannister.cc/archive/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cn.blog.lannister.cc/en/archive/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://cn.blog.lannister.cc/archive/"
-                />
-  </url><url>
     <loc>https://cn.blog.lannister.cc/author/</loc>
     <xhtml:link
                 rel="alternate"
@@ -101,6 +89,18 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://cn.blog.lannister.cc/tags/"
+                />
+  </url><url>
+    <loc>https://cn.blog.lannister.cc/archive/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cn.blog.lannister.cc/en/archive/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://cn.blog.lannister.cc/archive/"
                 />
   </url>
 </urlset>
